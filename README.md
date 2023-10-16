@@ -56,7 +56,7 @@ Se imprime el árbol de decisiones para una mejor visualización de las diferent
 ![image](https://github.com/jolosjoel/-AI-Decision-Tree-Classifier/assets/45809759/4922386e-0029-4080-baa5-f8b837045083)
 
 
-### Modelo de RandomForest
+### Modelo de RandomForestClassifier
 
 Se separan los datos de entrenamiento y prueba, y se utiliza un estimador de 100 árboles. Se obtiene una precisión de 0.8171.
 
